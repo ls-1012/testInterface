@@ -38,7 +38,6 @@ public class TestMboss {
         if(YamlReader.verifyCurrency(YamlReader.COUNTRY)) {
             String cookie = "xxxxx";
 //            TW
-//            String cookie = "Authorization=eyJhbGciOiJIUzUxMiJ9.eyJ1c2VyTmFtZSI6InNoYW4ubHUiLCJpc3MiOiJBQUNMVUIiLCJpYXQiOjE2NTc5NTk5NzIsImV4cCI6MTY1OTE2OTU3Mn0.exX3K8kn2U6sDFiRwrxMM9WStcW_UCeao1Mi_olqlHSsFK-I7vSaMihrmBtmgM-IGz3otNwBrNMEPivqlvhjww; ADVSSO=tw-mboss.apaylater.net+.XuYvweQDy4P";
             MbossLogin mbossLogin = new MbossLogin(cookie, YamlReader.COUNTRY);
             String companyId = mbossLogin.createSavedCompany("", "");
             System.out.println("companyId: "+companyId);
