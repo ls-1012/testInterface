@@ -1,0 +1,845 @@
+>url: https://th-mboss.apaylater.net/api/merchants/save/create
+V/Users/alvintan/atome/sftpInter/src/main/java/com/shanlu/data/createOnlineOutlet.json
+createOnlineOutlet.json
+�>{"SG":{"basic":{"riskRating":"BLANK","officeAreaCode":"+65","merchantType":"ONLINE","merchantName":"shanlu_online1","companyId":"S22A0005","belongingsTo":"S22A0005","category":"F","subCategory":"F3","institutionPartnerId":null,"online":{"platform":"WooCommerce","shopify":{}},"website":"https://wc-test.apaylater.net/","contactPerson1":"shan lu","phoneNumber":"232332332","phoneAreaCode":"+65","email":"shan.lu@adcance.ai","displayName":"shanlu_onlne1","merchantBrandId":"S22G0015","settlementType":"MERCHANT","taxFlag":"TAX_EXCLUDED","applyPspMdr":false},"bank":{"name":"wwwww","accountName":"officia esse consectetur ipsum","accountNumber":"quis","bankBranchCode":"","bankBranchName":"","bankCode":"","swiftCode":""},"account":{"usernameList":["shanlu_online1"]},"merchant":{"monthlyTransactionVolume":"32323"},"commercial":{"capital":{"supportRefund":true,"settlementCycle":"T_1","crossSettlementStatus":false},"chargeRates":[{"chargeType":"MDR","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"7MyJSbMK","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-07-14","rateValue":17}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"FLAT_FEE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"2sStmG6r","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-07-14","rateValue":6}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"FLAT_REBATE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"7iRn6cQd","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-07-14","rateValue":4.3}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"REBATE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"Qj8Ktxeb","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-07-14","rateValue":3}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"REFUND_FEE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"Aab2PzEX","rateModel":"FIXED","rateSource":"","rateType":"","startDate":"2022-07-14","rateValue":2.3}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true}]}},"TW":{"basic":{"riskRating":"BLANK","officeAreaCode":"+65","merchantType":"ONLINE","merchantName":"shanlu_online1","companyId":"S22A0005","belongingsTo":"S22A0005","category":"F","subCategory":"F3","institutionPartnerId":null,"online":{"platform":"WooCommerce","shopify":{}},"website":"https://wc-test.apaylater.net/","contactPerson1":"shan lu","phoneNumber":"232332332","phoneAreaCode":"+886","email":"shan.lu@adcance.ai","displayName":"shanlu_onlne1","merchantBrandId":"S22G0015","settlementType":"MERCHANT","taxFlag":"TAX_EXCLUDED","applyPspMdr":false,"mcc":"2222","outletEnglishName":"22222","personInChargeId":"wwwww","registeredCapitalAmount":"22222"},"bank":{"name":"wwwww","accountName":"officia esse consectetur ipsum","accountNumber":"quis","bankBranchCode":"","bankBranchName":"","bankCode":"","swiftCode":""},"account":{"usernameList":["shanlu_online1"]},"merchant":{"monthlyTransactionVolume":"32323"},"commercial":{"capital":{"supportRefund":true,"settlementCycle":"T_1","crossSettlementStatus":false},"chargeRates":[{"chargeType":"MDR","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"7MyJSbMK","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-07-14","rateValue":17}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"REBATE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"Qj8Ktxeb","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-07-14","rateValue":3}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true}]}},"TH":{"basic":{"officeAreaCode":"+66","phoneAreaCode":"+66","riskRating":"BLANK","merchantType":"ONLINE","merchantSubType":"OFFLINE_STATIC_QR","merchantName":"shanlu_online1","companyId":"T22E0007","belongingsTo":"T22E0007","category":"D","subCategory":"D1","institutionPartnerId":null,"online":{"platform":"WooCommerce","shopify":{}},"website":"https://wc-test.apaylater.net/","contactPerson1":"amy lu","phoneNumber":"23432323232","email":"123@qq.com","displayName":"shanlu_online1","merchantBrandId":"T22H0002","settlementType":"MERCHANT","taxFlag":"TAX_EXCLUDED","applyPspMdr":false},"bank":{"name":"jpadyentest-2","accountName":"jpadyentest-2","accountNumber":"121111111","bankCode":"1231312312","swiftCode":"131231231","bankBranchCode":"","bankBranchName":""},"account":{"usernameList":["shanlu_online1"]},"merchant":{"monthlyTransactionVolume":"22323232"},"commercial":{"capital":{"supportRefund":true,"settlementCycle":"T_1","crossSettlementStatus":false},"chargeRates":[{"chargeType":"MDR","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"PAGBczYK","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-08-04","rateValue":15}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"FLAT_FEE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"R8GKeshF","rateModel":"FIXED","rateSource":"","rateType":"","startDate":"2022-08-04","rateValue":18}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"REBATE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"NddBPxfF","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-08-04","rateValue":5}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"FLAT_REBATE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"cFHhKYyD","rateModel":"FIXED","rateSource":"GMV","rateType":"","startDate":"2022-08-04","rateValue":4}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true}]}}}
+�param: {"basic":{"officeAreaCode":"+66","phoneAreaCode":"+66","riskRating":"BLANK","merchantType":"ONLINE","merchantSubType":"OFFLINE_STATIC_QR","merchantName":"shanlu_online1","companyId":"T22E0007","belongingsTo":"T22E0007","category":"D","subCategory":"D1","institutionPartnerId":null,"online":{"platform":"WooCommerce","shopify":{}},"website":"https://wc-test.apaylater.net/","contactPerson1":"amy lu","phoneNumber":"23432323232","email":"123@qq.com","displayName":"shanlu_online1","merchantBrandId":"T22H0002","settlementType":"MERCHANT","taxFlag":"TAX_EXCLUDED","applyPspMdr":false},"bank":{"name":"jpadyentest-2","accountName":"jpadyentest-2","accountNumber":"121111111","bankCode":"1231312312","swiftCode":"131231231","bankBranchCode":"","bankBranchName":""},"account":{"usernameList":["shanlu_online1"]},"merchant":{"monthlyTransactionVolume":"22323232"},"commercial":{"capital":{"supportRefund":true,"settlementCycle":"T_1","crossSettlementStatus":false},"chargeRates":[{"chargeType":"MDR","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"PAGBczYK","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-08-04","rateValue":15}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"FLAT_FEE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"R8GKeshF","rateModel":"FIXED","rateSource":"","rateType":"","startDate":"2022-08-04","rateValue":18}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"REBATE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"NddBPxfF","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-08-04","rateValue":5}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"FLAT_REBATE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"cFHhKYyD","rateModel":"FIXED","rateSource":"GMV","rateType":"","startDate":"2022-08-04","rateValue":4}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true}]}}
+post 请求开始～～～ 
+302
+ �com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
+ 9	at com.google.gson.JsonParser.parse(JsonParser.java:65)
+ 9	at com.google.gson.JsonParser.parse(JsonParser.java:45)
+ @	at com.shanlu.util.TestUtil.getResponseBody(TestUtil.java:192)
+ L	at com.shanlu.business.MbossLogin.createMerchantBrand(MbossLogin.java:443)
+ G	at com.shanlu.business.MbossLogin.setOutletParam(MbossLogin.java:112)
+ O	at com.shanlu.business.MbossLogin.createOnlineSaveOutlet(MbossLogin.java:357)
+ 6	at TestMboss.testSaveOnlineOutlet(TestMboss.java:75)
+ @	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ R	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ Z	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ 5	at java.lang.reflect.Method.invoke(Method.java:498)
+ [	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:688)
+ Z	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+ �	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+ ]	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:149)
+ k	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:140)
+ f	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:84)
+ �	at org.junit.jupiter.engine.execution.ExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(ExecutableInvoker.java:115)
+ e	at org.junit.jupiter.engine.execution.ExecutableInvoker.lambda$invoke$0(ExecutableInvoker.java:105)
+ �	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+ n	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+ u	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+ m	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+ \	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:104)
+ [	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:98)
+ ~	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$6(TestMethodTestDescriptor.java:210)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ u	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:206)
+ l	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:131)
+ k	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:65)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:139)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+ N	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ j	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+ ^	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+ 5	at java.util.ArrayList.forEach(ArrayList.java:1259)
+ �	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+ N	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ j	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+ ^	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+ 5	at java.util.ArrayList.forEach(ArrayList.java:1259)
+ �	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+ N	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ j	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+ ^	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+ �	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:32)
+ v	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+ r	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:51)
+ o	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:108)
+ n	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:88)
+ w	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:54)
+ }	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:67)
+ n	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:52)
+ V	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:96)
+ V	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:75)
+ �	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.processAllTestClasses(JUnitPlatformTestClassProcessor.java:99)
+ �	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.access$000(JUnitPlatformTestClassProcessor.java:79)
+ �	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor.stop(JUnitPlatformTestClassProcessor.java:75)
+ h	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.stop(SuiteTestClassProcessor.java:61)
+ @	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ R	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ Z	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ 5	at java.lang.reflect.Method.invoke(Method.java:498)
+ Y	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+ Y	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+ i	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:33)
+ x	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:94)
+ /	at com.sun.proxy.$Proxy2.stop(Unknown Source)
+ V	at org.gradle.api.internal.tasks.testing.worker.TestWorker.stop(TestWorker.java:133)
+ @	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ R	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ Z	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ 5	at java.lang.reflect.Method.invoke(Method.java:498)
+ Y	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+ Y	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+ �	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:182)
+ �	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:164)
+ X	at org.gradle.internal.remote.internal.hub.MessageHub$Handler.run(MessageHub.java:414)
+ k	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+ Z	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:48)
+ T	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ T	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ j	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:56)
+ *	at java.lang.Thread.run(Thread.java:748)
+ �Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
+ H	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1568)
+ I	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1409)
+ B	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:542)
+ @	at com.google.gson.stream.JsonReader.peek(JsonReader.java:425)
+ 9	at com.google.gson.JsonParser.parse(JsonParser.java:60)
+ 	... 96 more
+L请确认请求body：「null」，或者请求参数「data」是否正确
+W/Users/alvintan/atome/sftpInter/src/main/java/com/shanlu/data/createOfflineOutlet.json
+createOfflineOutlet.json
+�4{"SG":{"basic":{"riskRating":"BLANK","merchantType":"OFFLINE","merchantSubType":"OFFLINE_STATIC_QR","merchantName":"shanlu_test_off","companyId":"S21C0015","belongingsTo":"S21C0015","institutionPartnerId":null,"category":"D","subCategory":"D1","online":{},"offline":{"registeredOfficeState":"Singapore","registeredOfficeCity":"Singapore","registeredOfficeDistrict":"South","registeredOfficeAddress":"consequat Excepteur ipsum ex","geographicCoords":"13.189016,120.973805","postCode":"123456","requestPaymentAPI":false},"contactPerson1":"shan lu","phoneNumber":"2323232332","phoneAreaCode":"+65","officeAreaCode":"+65","email":"shan.lu@adcance.ai","displayName":"shanlu_test_off","merchantBrandId":"S21A0002","settlementType":"MERCHANT","taxFlag":"TAX_EXCLUDED","applyPspMdr":false},"bank":{"name":"HSBC","accountName":"ydlaodapp","accountNumber":"1233222","bankCode":"7232","swiftCode":"","bankBranchName":"","bankBranchCode":""},"account":{"usernameList":["shanlu_test_off"]},"merchant":{"monthlyTransactionVolume":"123"},"commercial":{"capital":{"supportRefund":true,"settlementCycle":"T_1","crossSettlementStatus":false},"chargeRates":[{"chargeType":"MDR","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"SJ5y7S7E","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-07-14","rateValue":12}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"FLAT_FEE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"2QzEFP3i","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-07-14","rateValue":5}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"FLAT_REBATE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"2QzccP3i","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-07-14","rateValue":3.5}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"REBATE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"sx7waTKe","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-07-14","rateValue":2}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"REFUND_FEE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"pecWrHEX","rateModel":"FIXED","rateSource":"","rateType":"","startDate":"2022-07-14","rateValue":2.5}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true}]}},"TH":{"basic":{"officeAreaCode":"+66","riskRating":"LOW","merchantType":"OFFLINE","merchantSubType":"OFFLINE_STATIC_QR","merchantName":"shanlu_offline","companyId":"T22E0007","belongingsTo":"T22E0007","category":"D","subCategory":"D2","institutionPartnerId":null,"online":{},"offline":{"registeredOfficeState":"Thailand","registeredOfficeCity":"Northeastern Thailand (Isan)","registeredOfficeDistrict":"Chaiyaphum","registeredOfficeAddress":"consequat Excepteur ipsum ex","geographicCoords":"13.189016,120.973805","postCode":"123456","requestPaymentAPI":false},"website":null,"contactPerson1":"shanlu","phoneNumber":"323232323","phoneAreaCode":"+66","officeNumber":"12121212","email":"shan.lu@adcance.ai","displayName":"shanlu_offline","merchantBrandId":"T21C0001","settlementType":"MERCHANT","pspId":null,"mcc":null,"outletEnglishName":null,"personInChargeId":null,"registeredCapitalAmount":null,"taxFlag":"TAX_EXCLUDED","applyPspMdr":false,"merchantId":""},"bank":{"name":"TEST","accountName":"officia esse consectetur ipsum","accountNumber":"quis","bankCode":"TEST","swiftCode":"TEST","bankBranchCode":"","bankBranchName":""},"account":{"usernameList":["shanlu_offline"]},"merchant":{"monthlyTransactionVolume":32134,"estimatedAmountPerBill":null,"estimatedMonthlyGMV":null},"commercial":{"capital":{"supportRefund":true,"settlementCycle":"T_1","crossSettlementStatus":false},"chargeRates":[{"chargeType":"MDR","settlementCycle":"T_1","billCycle":null,"cycleDay":1,"billDay":"0","payoutDay":"1","crossSettlementStatus":false,"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":null},"applyPspMdr":false,"supportRefund":true,"rates":[{"rateModel":"PERCENT","rateSource":"GMV","rateType":"SINGLE_TRANS","rateValue":20,"startValue":null,"endValue":null,"startDate":"2022-05-23","endDate":null,"_id":"BrcMrbds"}]},{"chargeType":"FLAT_FEE","settlementCycle":"T_1","billCycle":null,"cycleDay":1,"billDay":"0","payoutDay":"1","crossSettlementStatus":false,"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":null},"applyPspMdr":false,"supportRefund":true,"rates":[{"rateModel":"FIXED","rateSource":"GMV","rateType":"SINGLE_TRANS","rateValue":8,"startValue":null,"endValue":null,"startDate":"2022-05-23","endDate":null,"_id":"Gs46W83x"}]},{"chargeType":"REBATE","settlementCycle":"T_1","billCycle":null,"cycleDay":1,"billDay":"0","payoutDay":"1","crossSettlementStatus":false,"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":null},"applyPspMdr":false,"supportRefund":true,"rates":[{"rateModel":"PERCENT","rateSource":"GMV","rateType":"SINGLE_TRANS","rateValue":7,"startValue":null,"endValue":null,"startDate":"2022-05-23","endDate":null,"_id":"X4PKMprj"}]},{"chargeType":"FLAT_REBATE","settlementCycle":"T_1","billCycle":null,"cycleDay":1,"billDay":"0","payoutDay":"1","crossSettlementStatus":false,"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":null},"applyPspMdr":false,"supportRefund":true,"rates":[{"rateModel":"FIXED","rateSource":"GMV","rateType":"SINGLE_TRANS","rateValue":4,"startValue":null,"endValue":null,"startDate":"2022-05-23","endDate":null,"_id":"GdfDwKk2"}]}]},"showUserInfoFlag":false}}
+�create outlet paramJson: {"basic":{"officeAreaCode":"+66","riskRating":"LOW","merchantType":"OFFLINE","merchantSubType":"OFFLINE_STATIC_QR","merchantName":"shanlu_test1660927408419","companyId":"T22E0007","belongingsTo":"T22E0007","category":"D","subCategory":"D2","institutionPartnerId":null,"online":{},"offline":{"registeredOfficeState":"Thailand","registeredOfficeCity":"Northeastern Thailand (Isan)","registeredOfficeDistrict":"Chaiyaphum","registeredOfficeAddress":"consequat Excepteur ipsum ex","geographicCoords":"13.189016,120.973805","postCode":"123456","requestPaymentAPI":false},"website":null,"contactPerson1":"shanlu","phoneNumber":"323232323","phoneAreaCode":"+66","officeNumber":"12121212","email":"shan.lu@adcance.ai","displayName":"shanlu_test1660927408419","merchantBrandId":"T21C0001","settlementType":"MERCHANT","pspId":null,"mcc":null,"outletEnglishName":null,"personInChargeId":null,"registeredCapitalAmount":null,"taxFlag":"TAX_EXCLUDED","applyPspMdr":false,"merchantId":""},"bank":{"name":"TEST","accountName":"officia esse consectetur ipsum","accountNumber":"quis","bankCode":"TEST","swiftCode":"TEST","bankBranchCode":"","bankBranchName":""},"account":{"usernameList":["shanlu_test1660927408419"]},"merchant":{"monthlyTransactionVolume":32134,"estimatedAmountPerBill":null,"estimatedMonthlyGMV":null},"commercial":{"capital":{"supportRefund":true,"settlementCycle":"T_1","crossSettlementStatus":false},"chargeRates":[{"chargeType":"MDR","settlementCycle":"T_1","billCycle":null,"cycleDay":1,"billDay":"0","payoutDay":"1","crossSettlementStatus":false,"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":null},"applyPspMdr":false,"supportRefund":true,"rates":[{"rateModel":"PERCENT","rateSource":"GMV","rateType":"SINGLE_TRANS","rateValue":20,"startValue":null,"endValue":null,"startDate":"2022-05-23","endDate":null,"_id":"BrcMrbds"}]},{"chargeType":"FLAT_FEE","settlementCycle":"T_1","billCycle":null,"cycleDay":1,"billDay":"0","payoutDay":"1","crossSettlementStatus":false,"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":null},"applyPspMdr":false,"supportRefund":true,"rates":[{"rateModel":"FIXED","rateSource":"GMV","rateType":"SINGLE_TRANS","rateValue":8,"startValue":null,"endValue":null,"startDate":"2022-05-23","endDate":null,"_id":"Gs46W83x"}]},{"chargeType":"REBATE","settlementCycle":"T_1","billCycle":null,"cycleDay":1,"billDay":"0","payoutDay":"1","crossSettlementStatus":false,"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":null},"applyPspMdr":false,"supportRefund":true,"rates":[{"rateModel":"PERCENT","rateSource":"GMV","rateType":"SINGLE_TRANS","rateValue":7,"startValue":null,"endValue":null,"startDate":"2022-05-23","endDate":null,"_id":"X4PKMprj"}]},{"chargeType":"FLAT_REBATE","settlementCycle":"T_1","billCycle":null,"cycleDay":1,"billDay":"0","payoutDay":"1","crossSettlementStatus":false,"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":null},"applyPspMdr":false,"supportRefund":true,"rates":[{"rateModel":"FIXED","rateSource":"GMV","rateType":"SINGLE_TRANS","rateValue":4,"startValue":null,"endValue":null,"startDate":"2022-05-23","endDate":null,"_id":"GdfDwKk2"}]}]},"showUserInfoFlag":false}
+�请求 offline outlet的参数为： {"basic":{"officeAreaCode":"+66","riskRating":"LOW","merchantType":"OFFLINE","merchantSubType":"OFFLINE_STATIC_QR","merchantName":"shanlu_test1660927408419","companyId":"T22E0007","belongingsTo":"T22E0007","category":"D","subCategory":"D2","institutionPartnerId":null,"online":{},"offline":{"registeredOfficeState":"Thailand","registeredOfficeCity":"Northeastern Thailand (Isan)","registeredOfficeDistrict":"Chaiyaphum","registeredOfficeAddress":"consequat Excepteur ipsum ex","geographicCoords":"13.189016,120.973805","postCode":"123456","requestPaymentAPI":false},"website":null,"contactPerson1":"shanlu","phoneNumber":"323232323","phoneAreaCode":"+66","officeNumber":"12121212","email":"shan.lu@adcance.ai","displayName":"shanlu_test1660927408419","merchantBrandId":"T21C0001","settlementType":"MERCHANT","pspId":null,"mcc":null,"outletEnglishName":null,"personInChargeId":null,"registeredCapitalAmount":null,"taxFlag":"TAX_EXCLUDED","applyPspMdr":false,"merchantId":""},"bank":{"name":"TEST","accountName":"officia esse consectetur ipsum","accountNumber":"quis","bankCode":"TEST","swiftCode":"TEST","bankBranchCode":"","bankBranchName":""},"account":{"usernameList":["shanlu_test1660927408419"]},"merchant":{"monthlyTransactionVolume":32134,"estimatedAmountPerBill":null,"estimatedMonthlyGMV":null},"commercial":{"capital":{"supportRefund":true,"settlementCycle":"T_1","crossSettlementStatus":false},"chargeRates":[{"chargeType":"MDR","settlementCycle":"T_1","billCycle":null,"cycleDay":1,"billDay":"0","payoutDay":"1","crossSettlementStatus":false,"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":null},"applyPspMdr":false,"supportRefund":true,"rates":[{"rateModel":"PERCENT","rateSource":"GMV","rateType":"SINGLE_TRANS","rateValue":20,"startValue":null,"endValue":null,"startDate":"2022-05-23","endDate":null,"_id":"BrcMrbds"}]},{"chargeType":"FLAT_FEE","settlementCycle":"T_1","billCycle":null,"cycleDay":1,"billDay":"0","payoutDay":"1","crossSettlementStatus":false,"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":null},"applyPspMdr":false,"supportRefund":true,"rates":[{"rateModel":"FIXED","rateSource":"GMV","rateType":"SINGLE_TRANS","rateValue":8,"startValue":null,"endValue":null,"startDate":"2022-05-23","endDate":null,"_id":"Gs46W83x"}]},{"chargeType":"REBATE","settlementCycle":"T_1","billCycle":null,"cycleDay":1,"billDay":"0","payoutDay":"1","crossSettlementStatus":false,"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":null},"applyPspMdr":false,"supportRefund":true,"rates":[{"rateModel":"PERCENT","rateSource":"GMV","rateType":"SINGLE_TRANS","rateValue":7,"startValue":null,"endValue":null,"startDate":"2022-05-23","endDate":null,"_id":"X4PKMprj"}]},{"chargeType":"FLAT_REBATE","settlementCycle":"T_1","billCycle":null,"cycleDay":1,"billDay":"0","payoutDay":"1","crossSettlementStatus":false,"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":null},"applyPspMdr":false,"supportRefund":true,"rates":[{"rateModel":"FIXED","rateSource":"GMV","rateType":"SINGLE_TRANS","rateValue":4,"startValue":null,"endValue":null,"startDate":"2022-05-23","endDate":null,"_id":"GdfDwKk2"}]}]},"showUserInfoFlag":false}
+post 请求开始～～～ 
+302
+ �com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
+ 9	at com.google.gson.JsonParser.parse(JsonParser.java:65)
+ 9	at com.google.gson.JsonParser.parse(JsonParser.java:45)
+ @	at com.shanlu.util.TestUtil.getResponseBody(TestUtil.java:192)
+ P	at com.shanlu.business.MbossLogin.createOfflineSaveOutlet(MbossLogin.java:300)
+ 7	at TestMboss.testSaveOfflineOutlet(TestMboss.java:59)
+ @	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ R	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ Z	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ 5	at java.lang.reflect.Method.invoke(Method.java:498)
+ [	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:688)
+ Z	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+ �	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+ ]	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:149)
+ k	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:140)
+ f	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:84)
+ �	at org.junit.jupiter.engine.execution.ExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(ExecutableInvoker.java:115)
+ e	at org.junit.jupiter.engine.execution.ExecutableInvoker.lambda$invoke$0(ExecutableInvoker.java:105)
+ �	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+ n	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+ u	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+ m	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+ \	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:104)
+ [	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:98)
+ ~	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$6(TestMethodTestDescriptor.java:210)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ u	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:206)
+ l	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:131)
+ k	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:65)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:139)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+ N	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ j	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+ ^	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+ 5	at java.util.ArrayList.forEach(ArrayList.java:1259)
+ �	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+ N	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ j	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+ ^	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+ 5	at java.util.ArrayList.forEach(ArrayList.java:1259)
+ �	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+ N	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ j	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+ ^	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+ �	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:32)
+ v	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+ r	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:51)
+ o	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:108)
+ n	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:88)
+ w	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:54)
+ }	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:67)
+ n	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:52)
+ V	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:96)
+ V	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:75)
+ �	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.processAllTestClasses(JUnitPlatformTestClassProcessor.java:99)
+ �	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.access$000(JUnitPlatformTestClassProcessor.java:79)
+ �	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor.stop(JUnitPlatformTestClassProcessor.java:75)
+ h	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.stop(SuiteTestClassProcessor.java:61)
+ @	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ R	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ Z	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ 5	at java.lang.reflect.Method.invoke(Method.java:498)
+ Y	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+ Y	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+ i	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:33)
+ x	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:94)
+ /	at com.sun.proxy.$Proxy2.stop(Unknown Source)
+ V	at org.gradle.api.internal.tasks.testing.worker.TestWorker.stop(TestWorker.java:133)
+ @	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ R	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ Z	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ 5	at java.lang.reflect.Method.invoke(Method.java:498)
+ Y	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+ Y	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+ �	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:182)
+ �	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:164)
+ X	at org.gradle.internal.remote.internal.hub.MessageHub$Handler.run(MessageHub.java:414)
+ k	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+ Z	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:48)
+ T	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ T	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ j	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:56)
+ *	at java.lang.Thread.run(Thread.java:748)
+ �Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
+ H	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1568)
+ I	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1409)
+ B	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:542)
+ @	at com.google.gson.stream.JsonReader.peek(JsonReader.java:425)
+ 9	at com.google.gson.JsonParser.parse(JsonParser.java:60)
+ 	... 94 more
+L请确认请求body：「null」，或者请求参数「data」是否正确
+outletId: null
+post 请求开始～～～ 
+302
+ �com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
+ 9	at com.google.gson.JsonParser.parse(JsonParser.java:65)
+ 9	at com.google.gson.JsonParser.parse(JsonParser.java:45)
+ @	at com.shanlu.util.TestUtil.getResponseBody(TestUtil.java:192)
+ L	at com.shanlu.business.MbossLogin.createMerchantBrand(MbossLogin.java:443)
+ 2	at TestMboss.testCreateBrand(TestMboss.java:122)
+ @	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ R	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ Z	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ 5	at java.lang.reflect.Method.invoke(Method.java:498)
+ [	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:688)
+ Z	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+ �	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+ ]	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:149)
+ k	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:140)
+ f	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:84)
+ �	at org.junit.jupiter.engine.execution.ExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(ExecutableInvoker.java:115)
+ e	at org.junit.jupiter.engine.execution.ExecutableInvoker.lambda$invoke$0(ExecutableInvoker.java:105)
+ �	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+ n	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+ u	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+ m	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+ \	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:104)
+ [	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:98)
+ ~	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$6(TestMethodTestDescriptor.java:210)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ u	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:206)
+ l	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:131)
+ k	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:65)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:139)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+ N	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ j	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+ ^	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+ 5	at java.util.ArrayList.forEach(ArrayList.java:1259)
+ �	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+ N	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ j	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+ ^	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+ 5	at java.util.ArrayList.forEach(ArrayList.java:1259)
+ �	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+ N	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ j	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+ ^	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+ �	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:32)
+ v	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+ r	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:51)
+ o	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:108)
+ n	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:88)
+ w	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:54)
+ }	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:67)
+ n	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:52)
+ V	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:96)
+ V	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:75)
+ �	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.processAllTestClasses(JUnitPlatformTestClassProcessor.java:99)
+ �	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.access$000(JUnitPlatformTestClassProcessor.java:79)
+ �	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor.stop(JUnitPlatformTestClassProcessor.java:75)
+ h	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.stop(SuiteTestClassProcessor.java:61)
+ @	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ R	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ Z	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ 5	at java.lang.reflect.Method.invoke(Method.java:498)
+ Y	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+ Y	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+ i	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:33)
+ x	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:94)
+ /	at com.sun.proxy.$Proxy2.stop(Unknown Source)
+ V	at org.gradle.api.internal.tasks.testing.worker.TestWorker.stop(TestWorker.java:133)
+ @	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ R	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ Z	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ 5	at java.lang.reflect.Method.invoke(Method.java:498)
+ Y	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+ Y	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+ �	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:182)
+ �	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:164)
+ X	at org.gradle.internal.remote.internal.hub.MessageHub$Handler.run(MessageHub.java:414)
+ k	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+ Z	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:48)
+ T	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ T	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ j	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:56)
+ *	at java.lang.Thread.run(Thread.java:748)
+ �Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
+ H	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1568)
+ I	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1409)
+ B	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:542)
+ @	at com.google.gson.stream.JsonReader.peek(JsonReader.java:425)
+ 9	at com.google.gson.JsonParser.parse(JsonParser.java:60)
+ 	... 94 more
+L请确认请求body：「null」，或者请求参数「data」是否正确
+merchantBrand: null
+Q/Users/alvintan/atome/sftpInter/src/main/java/com/shanlu/data/createCompany.json
+createCompany.json
+�{"SG":{"basic":{"companyRegistrationName":"shanlu_test1","companyRegistrationNumber":"shanlu_test1","registeredOfficeState":"中国","registeredOfficeCity":"北京","registeredOfficeDistrict":"北京市","registeredOfficeAddress":"西城牛街","postCode":"123456","contactPerson1":"shan lu","phoneNumber":"13800012393","riskRating":"BLANK","email":"shan.lu@adcance.ai","contractDocuments":[{"fileName":"20220729_at_14.50.56_20220728_at_18.41.55_20220520_at_17.18.25_安全开发常见注意事项.pdf","filePath":"photos/mboss/20220729/20220729_at_14.50.56_20220728_at_18.41.55_20220520_at_17.18.25_安全开发常见注意事项.pdf","url":"https://aaclub-sg-staging.s3.ap-southeast-1.amazonaws.com/photos/mboss/20220729/20220729_at_14.50.56_20220728_at_18.41.55_20220520_at_17.18.25_%E5%AE%89%E5%85%A8%E5%BC%80%E5%8F%91%E5%B8%B8%E8%A7%81%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220729T065056Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604800&X-Amz-Credential=AKIAWZUSTLHTJ2RLHYJM%2F20220729%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Signature=062a1533d015f6876d3b6c996dd795f5fb9fc66779e3940ad82f64c2cb74e176"}],"pic":"3332323","contractDate":1657250881743},"bank":{"accountNumber":""},"commercial":{"currency":"SGD"},"other":{},"account":{"usernameList":["shanlu_test1"],"bd":"Admin"},"japanReportInfo":null},"TW":{"basic":{"companyRegistrationName":"shanlu_test1","companyRegistrationNumber":"shanlu_test1","registeredOfficeState":"中国","registeredOfficeCity":"北京","registeredOfficeDistrict":"北京市","registeredOfficeAddress":"西城牛街","postCode":"123456","contactPerson1":"shan lu","phoneNumber":"13800012393","riskRating":"BLANK","email":"shan.lu@adcance.ai","contractDocuments":[{"fileName":"20220729_at_14.50.56_20220728_at_18.41.55_20220520_at_17.18.25_安全开发常见注意事项.pdf","filePath":"photos/mboss/20220729/20220729_at_14.50.56_20220728_at_18.41.55_20220520_at_17.18.25_安全开发常见注意事项.pdf","url":"https://aaclub-sg-staging.s3.ap-southeast-1.amazonaws.com/photos/mboss/20220729/20220729_at_14.50.56_20220728_at_18.41.55_20220520_at_17.18.25_%E5%AE%89%E5%85%A8%E5%BC%80%E5%8F%91%E5%B8%B8%E8%A7%81%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220729T065056Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604800&X-Amz-Credential=AKIAWZUSTLHTJ2RLHYJM%2F20220729%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Signature=062a1533d015f6876d3b6c996dd795f5fb9fc66779e3940ad82f64c2cb74e176"}],"pic":"3332323","contractDate":1657250881743},"bank":{"accountNumber":""},"commercial":{"currency":"TWD"},"other":{},"account":{"usernameList":["shanlu_test1"],"bd":"Admin"},"japanReportInfo":null},"TH":{"basic":{"companyRegistrationName":"shanlu_test1","companyRegistrationNumber":"shanlu_test1","registeredOfficeState":"中国","registeredOfficeCity":"北京","registeredOfficeDistrict":"北京市","registeredOfficeAddress":"西城牛街","postCode":"123456","contactPerson1":"shan lu","phoneNumber":"13800012393","riskRating":"BLANK","email":"shan.lu@adcance.ai","contractDocuments":[{"fileName":"20220729_at_14.50.56_20220728_at_18.41.55_20220520_at_17.18.25_安全开发常见注意事项.pdf","filePath":"photos/mboss/20220729/20220729_at_14.50.56_20220728_at_18.41.55_20220520_at_17.18.25_安全开发常见注意事项.pdf","url":"https://aaclub-sg-staging.s3.ap-southeast-1.amazonaws.com/photos/mboss/20220729/20220729_at_14.50.56_20220728_at_18.41.55_20220520_at_17.18.25_%E5%AE%89%E5%85%A8%E5%BC%80%E5%8F%91%E5%B8%B8%E8%A7%81%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220729T065056Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604800&X-Amz-Credential=AKIAWZUSTLHTJ2RLHYJM%2F20220729%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Signature=062a1533d015f6876d3b6c996dd795f5fb9fc66779e3940ad82f64c2cb74e176"}],"pic":"3332323","contractDate":1657250881743},"bank":{"accountNumber":""},"commercial":{"currency":"THB"},"other":{},"account":{"usernameList":["shanlu_test1"],"bd":"Admin"},"japanReportInfo":null}}
+�
+create company param: {"basic":{"companyRegistrationName":"shanlu_test1","companyRegistrationNumber":"shanlu_test1","registeredOfficeState":"中国","registeredOfficeCity":"北京","registeredOfficeDistrict":"北京市","registeredOfficeAddress":"西城牛街","postCode":"123456","contactPerson1":"shan lu","phoneNumber":"13800012393","riskRating":"BLANK","email":"shan.lu@adcance.ai","contractDocuments":[{"fileName":"20220729_at_14.50.56_20220728_at_18.41.55_20220520_at_17.18.25_安全开发常见注意事项.pdf","filePath":"photos/mboss/20220729/20220729_at_14.50.56_20220728_at_18.41.55_20220520_at_17.18.25_安全开发常见注意事项.pdf","url":"https://aaclub-sg-staging.s3.ap-southeast-1.amazonaws.com/photos/mboss/20220729/20220729_at_14.50.56_20220728_at_18.41.55_20220520_at_17.18.25_%E5%AE%89%E5%85%A8%E5%BC%80%E5%8F%91%E5%B8%B8%E8%A7%81%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220729T065056Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604800&X-Amz-Credential=AKIAWZUSTLHTJ2RLHYJM%2F20220729%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Signature=062a1533d015f6876d3b6c996dd795f5fb9fc66779e3940ad82f64c2cb74e176"}],"pic":"3332323","contractDate":1657250881743},"bank":{"accountNumber":""},"commercial":{"currency":"SGD"},"other":{},"account":{"usernameList":["shanlu_test1"],"bd":"Admin"},"japanReportInfo":null}
+�请求 create company的参数为： {"basic":{"companyRegistrationName":"shanlu_test1660927408559","companyRegistrationNumber":"shanlu_test1660927408559","registeredOfficeState":"中国","registeredOfficeCity":"北京","registeredOfficeDistrict":"北京市","registeredOfficeAddress":"西城牛街","postCode":"123456","contactPerson1":"shan lu","phoneNumber":"13800012393","riskRating":"BLANK","email":"shan.lu@adcance.ai","contractDocuments":[{"fileName":"20220729_at_14.50.56_20220728_at_18.41.55_20220520_at_17.18.25_安全开发常见注意事项.pdf","filePath":"photos/mboss/20220729/20220729_at_14.50.56_20220728_at_18.41.55_20220520_at_17.18.25_安全开发常见注意事项.pdf","url":"https://aaclub-sg-staging.s3.ap-southeast-1.amazonaws.com/photos/mboss/20220729/20220729_at_14.50.56_20220728_at_18.41.55_20220520_at_17.18.25_%E5%AE%89%E5%85%A8%E5%BC%80%E5%8F%91%E5%B8%B8%E8%A7%81%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220729T065056Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604800&X-Amz-Credential=AKIAWZUSTLHTJ2RLHYJM%2F20220729%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Signature=062a1533d015f6876d3b6c996dd795f5fb9fc66779e3940ad82f64c2cb74e176"}],"pic":"3332323","contractDate":1657250881743},"bank":{"accountNumber":""},"commercial":{"currency":"SGD"},"other":{},"account":{"usernameList":["shanlu_test1660927408559"],"bd":"Admin"},"japanReportInfo":null}
+post 请求开始～～～ 
+302
+�HttpResponseProxy{HTTP/1.1 302 Moved Temporarily [Server: nginx, Date: Fri, 19 Aug 2022 16:43:28 GMT, Content-Type: text/html, Content-Length: 138, Connection: keep-alive, Location: https://sso.advai.net/?next=https://mboss.apaylater.net/api/companies/submit/create] ResponseEntityProxy{[Content-Type: text/html,Content-Length: 138,Chunked: false]}}
+ �com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
+ 9	at com.google.gson.JsonParser.parse(JsonParser.java:65)
+ 9	at com.google.gson.JsonParser.parse(JsonParser.java:45)
+ @	at com.shanlu.util.TestUtil.getResponseBody(TestUtil.java:192)
+ L	at com.shanlu.business.MbossLogin.createNormalCompany(MbossLogin.java:217)
+ 9	at TestMboss.testCreateNormalCompany(TestMboss.java:24)
+ @	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ R	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ Z	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ 5	at java.lang.reflect.Method.invoke(Method.java:498)
+ [	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:688)
+ Z	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+ �	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+ ]	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:149)
+ k	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:140)
+ f	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:84)
+ �	at org.junit.jupiter.engine.execution.ExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(ExecutableInvoker.java:115)
+ e	at org.junit.jupiter.engine.execution.ExecutableInvoker.lambda$invoke$0(ExecutableInvoker.java:105)
+ �	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+ n	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+ u	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+ m	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+ \	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:104)
+ [	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:98)
+ ~	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$6(TestMethodTestDescriptor.java:210)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ u	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:206)
+ l	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:131)
+ k	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:65)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:139)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+ N	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ j	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+ ^	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+ 5	at java.util.ArrayList.forEach(ArrayList.java:1259)
+ �	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+ N	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ j	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+ ^	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+ 5	at java.util.ArrayList.forEach(ArrayList.java:1259)
+ �	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+ N	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ j	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+ ^	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+ �	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:32)
+ v	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+ r	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:51)
+ o	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:108)
+ n	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:88)
+ w	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:54)
+ }	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:67)
+ n	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:52)
+ V	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:96)
+ V	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:75)
+ �	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.processAllTestClasses(JUnitPlatformTestClassProcessor.java:99)
+ �	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.access$000(JUnitPlatformTestClassProcessor.java:79)
+ �	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor.stop(JUnitPlatformTestClassProcessor.java:75)
+ h	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.stop(SuiteTestClassProcessor.java:61)
+ @	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ R	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ Z	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ 5	at java.lang.reflect.Method.invoke(Method.java:498)
+ Y	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+ Y	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+ i	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:33)
+ x	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:94)
+ /	at com.sun.proxy.$Proxy2.stop(Unknown Source)
+ V	at org.gradle.api.internal.tasks.testing.worker.TestWorker.stop(TestWorker.java:133)
+ @	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ R	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ Z	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ 5	at java.lang.reflect.Method.invoke(Method.java:498)
+ Y	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+ Y	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+ �	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:182)
+ �	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:164)
+ X	at org.gradle.internal.remote.internal.hub.MessageHub$Handler.run(MessageHub.java:414)
+ k	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+ Z	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:48)
+ T	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ T	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ j	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:56)
+ *	at java.lang.Thread.run(Thread.java:748)
+ �Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
+ H	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1568)
+ I	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1409)
+ B	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:542)
+ @	at com.google.gson.stream.JsonReader.peek(JsonReader.java:425)
+ 9	at com.google.gson.JsonParser.parse(JsonParser.java:60)
+ 	... 94 more
+null
+L请确认请求body：「null」，或者请求参数「data」是否正确
+companyId: null
+�create outlet param: {"basic":{"riskRating":"BLANK","merchantType":"OFFLINE","merchantSubType":"OFFLINE_STATIC_QR","merchantName":"aaaaa","companyId":"123","belongingsTo":"123","institutionPartnerId":null,"category":"D","subCategory":"D1","online":{},"offline":{"registeredOfficeState":"Singapore","registeredOfficeCity":"Singapore","registeredOfficeDistrict":"South","registeredOfficeAddress":"consequat Excepteur ipsum ex","geographicCoords":"13.189016,120.973805","postCode":"123456","requestPaymentAPI":false},"contactPerson1":"shan lu","phoneNumber":"2323232332","phoneAreaCode":"+65","officeAreaCode":"+65","email":"shan.lu@adcance.ai","displayName":"bbbbb","merchantBrandId":"S21A0002","settlementType":"MERCHANT","taxFlag":"TAX_EXCLUDED","applyPspMdr":false},"bank":{"name":"HSBC","accountName":"ydlaodapp","accountNumber":"1233222","bankCode":"7232","swiftCode":"","bankBranchName":"","bankBranchCode":""},"account":{"usernameList":["aaaaa"]},"merchant":{"monthlyTransactionVolume":"123"},"commercial":{"capital":{"supportRefund":true,"settlementCycle":"T_1","crossSettlementStatus":false},"chargeRates":[{"chargeType":"MDR","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"SJ5y7S7E","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-07-14","rateValue":12}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"FLAT_FEE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"2QzEFP3i","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-07-14","rateValue":5}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"FLAT_REBATE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"2QzccP3i","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-07-14","rateValue":3.5}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"REBATE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"sx7waTKe","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-07-14","rateValue":2}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"REFUND_FEE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"pecWrHEX","rateModel":"FIXED","rateSource":"","rateType":"","startDate":"2022-07-14","rateValue":2.5}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true}]}}
+Q/Users/alvintan/atome/sftpInter/src/main/java/com/shanlu/data/createCompany.json
+createCompany.json
+�{"SG":{"basic":{"companyRegistrationName":"shanlu_test1","companyRegistrationNumber":"shanlu_test1","registeredOfficeState":"中国","registeredOfficeCity":"北京","registeredOfficeDistrict":"北京市","registeredOfficeAddress":"西城牛街","postCode":"123456","contactPerson1":"shan lu","phoneNumber":"13800012393","riskRating":"BLANK","email":"shan.lu@adcance.ai","contractDocuments":[{"fileName":"20220729_at_14.50.56_20220728_at_18.41.55_20220520_at_17.18.25_安全开发常见注意事项.pdf","filePath":"photos/mboss/20220729/20220729_at_14.50.56_20220728_at_18.41.55_20220520_at_17.18.25_安全开发常见注意事项.pdf","url":"https://aaclub-sg-staging.s3.ap-southeast-1.amazonaws.com/photos/mboss/20220729/20220729_at_14.50.56_20220728_at_18.41.55_20220520_at_17.18.25_%E5%AE%89%E5%85%A8%E5%BC%80%E5%8F%91%E5%B8%B8%E8%A7%81%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220729T065056Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604800&X-Amz-Credential=AKIAWZUSTLHTJ2RLHYJM%2F20220729%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Signature=062a1533d015f6876d3b6c996dd795f5fb9fc66779e3940ad82f64c2cb74e176"}],"pic":"3332323","contractDate":1657250881743},"bank":{"accountNumber":""},"commercial":{"currency":"SGD"},"other":{},"account":{"usernameList":["shanlu_test1"],"bd":"Admin"},"japanReportInfo":null},"TW":{"basic":{"companyRegistrationName":"shanlu_test1","companyRegistrationNumber":"shanlu_test1","registeredOfficeState":"中国","registeredOfficeCity":"北京","registeredOfficeDistrict":"北京市","registeredOfficeAddress":"西城牛街","postCode":"123456","contactPerson1":"shan lu","phoneNumber":"13800012393","riskRating":"BLANK","email":"shan.lu@adcance.ai","contractDocuments":[{"fileName":"20220729_at_14.50.56_20220728_at_18.41.55_20220520_at_17.18.25_安全开发常见注意事项.pdf","filePath":"photos/mboss/20220729/20220729_at_14.50.56_20220728_at_18.41.55_20220520_at_17.18.25_安全开发常见注意事项.pdf","url":"https://aaclub-sg-staging.s3.ap-southeast-1.amazonaws.com/photos/mboss/20220729/20220729_at_14.50.56_20220728_at_18.41.55_20220520_at_17.18.25_%E5%AE%89%E5%85%A8%E5%BC%80%E5%8F%91%E5%B8%B8%E8%A7%81%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220729T065056Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604800&X-Amz-Credential=AKIAWZUSTLHTJ2RLHYJM%2F20220729%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Signature=062a1533d015f6876d3b6c996dd795f5fb9fc66779e3940ad82f64c2cb74e176"}],"pic":"3332323","contractDate":1657250881743},"bank":{"accountNumber":""},"commercial":{"currency":"TWD"},"other":{},"account":{"usernameList":["shanlu_test1"],"bd":"Admin"},"japanReportInfo":null},"TH":{"basic":{"companyRegistrationName":"shanlu_test1","companyRegistrationNumber":"shanlu_test1","registeredOfficeState":"中国","registeredOfficeCity":"北京","registeredOfficeDistrict":"北京市","registeredOfficeAddress":"西城牛街","postCode":"123456","contactPerson1":"shan lu","phoneNumber":"13800012393","riskRating":"BLANK","email":"shan.lu@adcance.ai","contractDocuments":[{"fileName":"20220729_at_14.50.56_20220728_at_18.41.55_20220520_at_17.18.25_安全开发常见注意事项.pdf","filePath":"photos/mboss/20220729/20220729_at_14.50.56_20220728_at_18.41.55_20220520_at_17.18.25_安全开发常见注意事项.pdf","url":"https://aaclub-sg-staging.s3.ap-southeast-1.amazonaws.com/photos/mboss/20220729/20220729_at_14.50.56_20220728_at_18.41.55_20220520_at_17.18.25_%E5%AE%89%E5%85%A8%E5%BC%80%E5%8F%91%E5%B8%B8%E8%A7%81%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220729T065056Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604800&X-Amz-Credential=AKIAWZUSTLHTJ2RLHYJM%2F20220729%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Signature=062a1533d015f6876d3b6c996dd795f5fb9fc66779e3940ad82f64c2cb74e176"}],"pic":"3332323","contractDate":1657250881743},"bank":{"accountNumber":""},"commercial":{"currency":"THB"},"other":{},"account":{"usernameList":["shanlu_test1"],"bd":"Admin"},"japanReportInfo":null}}
+�
+create company param: {"basic":{"companyRegistrationName":"shanlu_test1","companyRegistrationNumber":"shanlu_test1","registeredOfficeState":"中国","registeredOfficeCity":"北京","registeredOfficeDistrict":"北京市","registeredOfficeAddress":"西城牛街","postCode":"123456","contactPerson1":"shan lu","phoneNumber":"13800012393","riskRating":"BLANK","email":"shan.lu@adcance.ai","contractDocuments":[{"fileName":"20220729_at_14.50.56_20220728_at_18.41.55_20220520_at_17.18.25_安全开发常见注意事项.pdf","filePath":"photos/mboss/20220729/20220729_at_14.50.56_20220728_at_18.41.55_20220520_at_17.18.25_安全开发常见注意事项.pdf","url":"https://aaclub-sg-staging.s3.ap-southeast-1.amazonaws.com/photos/mboss/20220729/20220729_at_14.50.56_20220728_at_18.41.55_20220520_at_17.18.25_%E5%AE%89%E5%85%A8%E5%BC%80%E5%8F%91%E5%B8%B8%E8%A7%81%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220729T065056Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604800&X-Amz-Credential=AKIAWZUSTLHTJ2RLHYJM%2F20220729%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Signature=062a1533d015f6876d3b6c996dd795f5fb9fc66779e3940ad82f64c2cb74e176"}],"pic":"3332323","contractDate":1657250881743},"bank":{"accountNumber":""},"commercial":{"currency":"SGD"},"other":{},"account":{"usernameList":["shanlu_test1"],"bd":"Admin"},"japanReportInfo":null}
+�请求 create company的参数为： {"basic":{"companyRegistrationName":"shanlu_test1660927408839","companyRegistrationNumber":"shanlu_test1660927408839","registeredOfficeState":"中国","registeredOfficeCity":"北京","registeredOfficeDistrict":"北京市","registeredOfficeAddress":"西城牛街","postCode":"123456","contactPerson1":"shan lu","phoneNumber":"13800012393","riskRating":"BLANK","email":"shan.lu@adcance.ai","contractDocuments":[{"fileName":"20220729_at_14.50.56_20220728_at_18.41.55_20220520_at_17.18.25_安全开发常见注意事项.pdf","filePath":"photos/mboss/20220729/20220729_at_14.50.56_20220728_at_18.41.55_20220520_at_17.18.25_安全开发常见注意事项.pdf","url":"https://aaclub-sg-staging.s3.ap-southeast-1.amazonaws.com/photos/mboss/20220729/20220729_at_14.50.56_20220728_at_18.41.55_20220520_at_17.18.25_%E5%AE%89%E5%85%A8%E5%BC%80%E5%8F%91%E5%B8%B8%E8%A7%81%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220729T065056Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604800&X-Amz-Credential=AKIAWZUSTLHTJ2RLHYJM%2F20220729%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Signature=062a1533d015f6876d3b6c996dd795f5fb9fc66779e3940ad82f64c2cb74e176"}],"pic":"3332323","contractDate":1657250881743},"bank":{"accountNumber":""},"commercial":{"currency":"SGD"},"other":{},"account":{"usernameList":["shanlu_test1660927408839"],"bd":"Admin"},"japanReportInfo":null}
+post 请求开始～～～ 
+302
+ �com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
+ 9	at com.google.gson.JsonParser.parse(JsonParser.java:65)
+ 9	at com.google.gson.JsonParser.parse(JsonParser.java:45)
+ @	at com.shanlu.util.TestUtil.getResponseBody(TestUtil.java:192)
+ K	at com.shanlu.business.MbossLogin.createSavedCompany(MbossLogin.java:258)
+ 7	at TestMboss.testCreateSaveCompnay(TestMboss.java:43)
+ @	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ R	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ Z	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ 5	at java.lang.reflect.Method.invoke(Method.java:498)
+ [	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:688)
+ Z	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+ �	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+ ]	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:149)
+ k	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:140)
+ f	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:84)
+ �	at org.junit.jupiter.engine.execution.ExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(ExecutableInvoker.java:115)
+ e	at org.junit.jupiter.engine.execution.ExecutableInvoker.lambda$invoke$0(ExecutableInvoker.java:105)
+ �	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+ n	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+ u	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+ m	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+ \	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:104)
+ [	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:98)
+ ~	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$6(TestMethodTestDescriptor.java:210)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ u	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:206)
+ l	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:131)
+ k	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:65)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:139)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+ N	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ j	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+ ^	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+ 5	at java.util.ArrayList.forEach(ArrayList.java:1259)
+ �	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+ N	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ j	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+ ^	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+ 5	at java.util.ArrayList.forEach(ArrayList.java:1259)
+ �	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+ N	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ j	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+ ^	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+ �	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:32)
+ v	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+ r	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:51)
+ o	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:108)
+ n	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:88)
+ w	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:54)
+ }	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:67)
+ n	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:52)
+ V	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:96)
+ V	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:75)
+ �	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.processAllTestClasses(JUnitPlatformTestClassProcessor.java:99)
+ �	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.access$000(JUnitPlatformTestClassProcessor.java:79)
+ �	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor.stop(JUnitPlatformTestClassProcessor.java:75)
+ h	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.stop(SuiteTestClassProcessor.java:61)
+ @	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ R	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ Z	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ 5	at java.lang.reflect.Method.invoke(Method.java:498)
+ Y	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+ Y	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+ i	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:33)
+ x	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:94)
+ /	at com.sun.proxy.$Proxy2.stop(Unknown Source)
+ V	at org.gradle.api.internal.tasks.testing.worker.TestWorker.stop(TestWorker.java:133)
+ @	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ R	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ Z	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ 5	at java.lang.reflect.Method.invoke(Method.java:498)
+ Y	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+ Y	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+ �	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:182)
+ �	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:164)
+ X	at org.gradle.internal.remote.internal.hub.MessageHub$Handler.run(MessageHub.java:414)
+ k	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+ Z	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:48)
+ T	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ T	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ j	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:56)
+ *	at java.lang.Thread.run(Thread.java:748)
+ �Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
+ H	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1568)
+ I	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1409)
+ B	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:542)
+ @	at com.google.gson.stream.JsonReader.peek(JsonReader.java:425)
+ 9	at com.google.gson.JsonParser.parse(JsonParser.java:60)
+ 	... 94 more
+L请确认请求body：「null」，或者请求参数「data」是否正确
+companyId: null
+W/Users/alvintan/atome/sftpInter/src/main/java/com/shanlu/data/createOfflineOutlet.json
+createOfflineOutlet.json
+�4{"SG":{"basic":{"riskRating":"BLANK","merchantType":"OFFLINE","merchantSubType":"OFFLINE_STATIC_QR","merchantName":"shanlu_test_off","companyId":"S21C0015","belongingsTo":"S21C0015","institutionPartnerId":null,"category":"D","subCategory":"D1","online":{},"offline":{"registeredOfficeState":"Singapore","registeredOfficeCity":"Singapore","registeredOfficeDistrict":"South","registeredOfficeAddress":"consequat Excepteur ipsum ex","geographicCoords":"13.189016,120.973805","postCode":"123456","requestPaymentAPI":false},"contactPerson1":"shan lu","phoneNumber":"2323232332","phoneAreaCode":"+65","officeAreaCode":"+65","email":"shan.lu@adcance.ai","displayName":"shanlu_test_off","merchantBrandId":"S21A0002","settlementType":"MERCHANT","taxFlag":"TAX_EXCLUDED","applyPspMdr":false},"bank":{"name":"HSBC","accountName":"ydlaodapp","accountNumber":"1233222","bankCode":"7232","swiftCode":"","bankBranchName":"","bankBranchCode":""},"account":{"usernameList":["shanlu_test_off"]},"merchant":{"monthlyTransactionVolume":"123"},"commercial":{"capital":{"supportRefund":true,"settlementCycle":"T_1","crossSettlementStatus":false},"chargeRates":[{"chargeType":"MDR","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"SJ5y7S7E","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-07-14","rateValue":12}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"FLAT_FEE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"2QzEFP3i","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-07-14","rateValue":5}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"FLAT_REBATE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"2QzccP3i","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-07-14","rateValue":3.5}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"REBATE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"sx7waTKe","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-07-14","rateValue":2}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"REFUND_FEE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"pecWrHEX","rateModel":"FIXED","rateSource":"","rateType":"","startDate":"2022-07-14","rateValue":2.5}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true}]}},"TH":{"basic":{"officeAreaCode":"+66","riskRating":"LOW","merchantType":"OFFLINE","merchantSubType":"OFFLINE_STATIC_QR","merchantName":"shanlu_offline","companyId":"T22E0007","belongingsTo":"T22E0007","category":"D","subCategory":"D2","institutionPartnerId":null,"online":{},"offline":{"registeredOfficeState":"Thailand","registeredOfficeCity":"Northeastern Thailand (Isan)","registeredOfficeDistrict":"Chaiyaphum","registeredOfficeAddress":"consequat Excepteur ipsum ex","geographicCoords":"13.189016,120.973805","postCode":"123456","requestPaymentAPI":false},"website":null,"contactPerson1":"shanlu","phoneNumber":"323232323","phoneAreaCode":"+66","officeNumber":"12121212","email":"shan.lu@adcance.ai","displayName":"shanlu_offline","merchantBrandId":"T21C0001","settlementType":"MERCHANT","pspId":null,"mcc":null,"outletEnglishName":null,"personInChargeId":null,"registeredCapitalAmount":null,"taxFlag":"TAX_EXCLUDED","applyPspMdr":false,"merchantId":""},"bank":{"name":"TEST","accountName":"officia esse consectetur ipsum","accountNumber":"quis","bankCode":"TEST","swiftCode":"TEST","bankBranchCode":"","bankBranchName":""},"account":{"usernameList":["shanlu_offline"]},"merchant":{"monthlyTransactionVolume":32134,"estimatedAmountPerBill":null,"estimatedMonthlyGMV":null},"commercial":{"capital":{"supportRefund":true,"settlementCycle":"T_1","crossSettlementStatus":false},"chargeRates":[{"chargeType":"MDR","settlementCycle":"T_1","billCycle":null,"cycleDay":1,"billDay":"0","payoutDay":"1","crossSettlementStatus":false,"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":null},"applyPspMdr":false,"supportRefund":true,"rates":[{"rateModel":"PERCENT","rateSource":"GMV","rateType":"SINGLE_TRANS","rateValue":20,"startValue":null,"endValue":null,"startDate":"2022-05-23","endDate":null,"_id":"BrcMrbds"}]},{"chargeType":"FLAT_FEE","settlementCycle":"T_1","billCycle":null,"cycleDay":1,"billDay":"0","payoutDay":"1","crossSettlementStatus":false,"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":null},"applyPspMdr":false,"supportRefund":true,"rates":[{"rateModel":"FIXED","rateSource":"GMV","rateType":"SINGLE_TRANS","rateValue":8,"startValue":null,"endValue":null,"startDate":"2022-05-23","endDate":null,"_id":"Gs46W83x"}]},{"chargeType":"REBATE","settlementCycle":"T_1","billCycle":null,"cycleDay":1,"billDay":"0","payoutDay":"1","crossSettlementStatus":false,"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":null},"applyPspMdr":false,"supportRefund":true,"rates":[{"rateModel":"PERCENT","rateSource":"GMV","rateType":"SINGLE_TRANS","rateValue":7,"startValue":null,"endValue":null,"startDate":"2022-05-23","endDate":null,"_id":"X4PKMprj"}]},{"chargeType":"FLAT_REBATE","settlementCycle":"T_1","billCycle":null,"cycleDay":1,"billDay":"0","payoutDay":"1","crossSettlementStatus":false,"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":null},"applyPspMdr":false,"supportRefund":true,"rates":[{"rateModel":"FIXED","rateSource":"GMV","rateType":"SINGLE_TRANS","rateValue":4,"startValue":null,"endValue":null,"startDate":"2022-05-23","endDate":null,"_id":"GdfDwKk2"}]}]},"showUserInfoFlag":false}}
+�create outlet paramJson: {"basic":{"riskRating":"BLANK","merchantType":"OFFLINE","merchantSubType":"OFFLINE_STATIC_QR","merchantName":"shanlu_test1660927408935","companyId":"T22E0007","belongingsTo":"T22E0007","institutionPartnerId":null,"category":"D","subCategory":"D1","online":{},"offline":{"registeredOfficeState":"Singapore","registeredOfficeCity":"Singapore","registeredOfficeDistrict":"South","registeredOfficeAddress":"consequat Excepteur ipsum ex","geographicCoords":"13.189016,120.973805","postCode":"123456","requestPaymentAPI":false},"contactPerson1":"shan lu","phoneNumber":"2323232332","phoneAreaCode":"+65","officeAreaCode":"+65","email":"shan.lu@adcance.ai","displayName":"shanlu_test1660927408935","merchantBrandId":"S21A0002","settlementType":"MERCHANT","taxFlag":"TAX_EXCLUDED","applyPspMdr":false},"bank":{"name":"HSBC","accountName":"ydlaodapp","accountNumber":"1233222","bankCode":"7232","swiftCode":"","bankBranchName":"","bankBranchCode":""},"account":{"usernameList":["shanlu_test1660927408935"]},"merchant":{"monthlyTransactionVolume":"123"},"commercial":{"capital":{"supportRefund":true,"settlementCycle":"T_1","crossSettlementStatus":false},"chargeRates":[{"chargeType":"MDR","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"SJ5y7S7E","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-07-14","rateValue":12}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"FLAT_FEE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"2QzEFP3i","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-07-14","rateValue":5}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"FLAT_REBATE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"2QzccP3i","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-07-14","rateValue":3.5}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"REBATE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"sx7waTKe","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-07-14","rateValue":2}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"REFUND_FEE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"pecWrHEX","rateModel":"FIXED","rateSource":"","rateType":"","startDate":"2022-07-14","rateValue":2.5}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true}]}}
+�请求 offline outlet的参数为： {"basic":{"riskRating":"BLANK","merchantType":"OFFLINE","merchantSubType":"OFFLINE_STATIC_QR","merchantName":"shanlu_test1660927408935","companyId":"T22E0007","belongingsTo":"T22E0007","institutionPartnerId":null,"category":"D","subCategory":"D1","online":{},"offline":{"registeredOfficeState":"Singapore","registeredOfficeCity":"Singapore","registeredOfficeDistrict":"South","registeredOfficeAddress":"consequat Excepteur ipsum ex","geographicCoords":"13.189016,120.973805","postCode":"123456","requestPaymentAPI":false},"contactPerson1":"shan lu","phoneNumber":"2323232332","phoneAreaCode":"+65","officeAreaCode":"+65","email":"shan.lu@adcance.ai","displayName":"shanlu_test1660927408935","merchantBrandId":"S21A0002","settlementType":"MERCHANT","taxFlag":"TAX_EXCLUDED","applyPspMdr":false},"bank":{"name":"HSBC","accountName":"ydlaodapp","accountNumber":"1233222","bankCode":"7232","swiftCode":"","bankBranchName":"","bankBranchCode":""},"account":{"usernameList":["shanlu_test1660927408935"]},"merchant":{"monthlyTransactionVolume":"123"},"commercial":{"capital":{"supportRefund":true,"settlementCycle":"T_1","crossSettlementStatus":false},"chargeRates":[{"chargeType":"MDR","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"SJ5y7S7E","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-07-14","rateValue":12}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"FLAT_FEE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"2QzEFP3i","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-07-14","rateValue":5}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"FLAT_REBATE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"2QzccP3i","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-07-14","rateValue":3.5}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"REBATE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"sx7waTKe","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-07-14","rateValue":2}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"REFUND_FEE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"pecWrHEX","rateModel":"FIXED","rateSource":"","rateType":"","startDate":"2022-07-14","rateValue":2.5}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true}]}}
+post 请求开始～～～ 
+302
+ �com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
+ 9	at com.google.gson.JsonParser.parse(JsonParser.java:65)
+ 9	at com.google.gson.JsonParser.parse(JsonParser.java:45)
+ @	at com.shanlu.util.TestUtil.getResponseBody(TestUtil.java:192)
+ R	at com.shanlu.business.MbossLogin.createOfflineEnableOutlet(MbossLogin.java:331)
+ 9	at TestMboss.testEnableOfflineOutlet(TestMboss.java:91)
+ @	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ R	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ Z	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ 5	at java.lang.reflect.Method.invoke(Method.java:498)
+ [	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:688)
+ Z	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+ �	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+ ]	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:149)
+ k	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:140)
+ f	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:84)
+ �	at org.junit.jupiter.engine.execution.ExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(ExecutableInvoker.java:115)
+ e	at org.junit.jupiter.engine.execution.ExecutableInvoker.lambda$invoke$0(ExecutableInvoker.java:105)
+ �	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+ n	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+ u	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+ m	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+ \	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:104)
+ [	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:98)
+ ~	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$6(TestMethodTestDescriptor.java:210)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ u	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:206)
+ l	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:131)
+ k	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:65)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:139)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+ N	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ j	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+ ^	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+ 5	at java.util.ArrayList.forEach(ArrayList.java:1259)
+ �	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+ N	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ j	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+ ^	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+ 5	at java.util.ArrayList.forEach(ArrayList.java:1259)
+ �	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+ N	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+ s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+ j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ j	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+ ^	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+ �	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:32)
+ v	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+ r	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:51)
+ o	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:108)
+ n	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:88)
+ w	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:54)
+ }	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:67)
+ n	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:52)
+ V	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:96)
+ V	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:75)
+ �	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.processAllTestClasses(JUnitPlatformTestClassProcessor.java:99)
+ �	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.access$000(JUnitPlatformTestClassProcessor.java:79)
+ �	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor.stop(JUnitPlatformTestClassProcessor.java:75)
+ h	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.stop(SuiteTestClassProcessor.java:61)
+ @	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ R	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ Z	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ 5	at java.lang.reflect.Method.invoke(Method.java:498)
+ Y	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+ Y	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+ i	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:33)
+ x	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:94)
+ /	at com.sun.proxy.$Proxy2.stop(Unknown Source)
+ V	at org.gradle.api.internal.tasks.testing.worker.TestWorker.stop(TestWorker.java:133)
+ @	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ R	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ Z	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ 5	at java.lang.reflect.Method.invoke(Method.java:498)
+ Y	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+ Y	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+ �	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:182)
+ �	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:164)
+ X	at org.gradle.internal.remote.internal.hub.MessageHub$Handler.run(MessageHub.java:414)
+ k	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+ Z	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:48)
+ T	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ T	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ j	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:56)
+ *	at java.lang.Thread.run(Thread.java:748)
+ �Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
+ H	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1568)
+ I	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1409)
+ B	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:542)
+ @	at com.google.gson.stream.JsonReader.peek(JsonReader.java:425)
+ 9	at com.google.gson.JsonParser.parse(JsonParser.java:60)
+ 	... 94 more
+L请确认请求body：「null」，或者请求参数「data」是否正确
+outletId: null
+	V/Users/alvintan/atome/sftpInter/src/main/java/com/shanlu/data/createOnlineOutlet.json
+	createOnlineOutlet.json
+	�>{"SG":{"basic":{"riskRating":"BLANK","officeAreaCode":"+65","merchantType":"ONLINE","merchantName":"shanlu_online1","companyId":"S22A0005","belongingsTo":"S22A0005","category":"F","subCategory":"F3","institutionPartnerId":null,"online":{"platform":"WooCommerce","shopify":{}},"website":"https://wc-test.apaylater.net/","contactPerson1":"shan lu","phoneNumber":"232332332","phoneAreaCode":"+65","email":"shan.lu@adcance.ai","displayName":"shanlu_onlne1","merchantBrandId":"S22G0015","settlementType":"MERCHANT","taxFlag":"TAX_EXCLUDED","applyPspMdr":false},"bank":{"name":"wwwww","accountName":"officia esse consectetur ipsum","accountNumber":"quis","bankBranchCode":"","bankBranchName":"","bankCode":"","swiftCode":""},"account":{"usernameList":["shanlu_online1"]},"merchant":{"monthlyTransactionVolume":"32323"},"commercial":{"capital":{"supportRefund":true,"settlementCycle":"T_1","crossSettlementStatus":false},"chargeRates":[{"chargeType":"MDR","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"7MyJSbMK","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-07-14","rateValue":17}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"FLAT_FEE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"2sStmG6r","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-07-14","rateValue":6}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"FLAT_REBATE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"7iRn6cQd","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-07-14","rateValue":4.3}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"REBATE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"Qj8Ktxeb","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-07-14","rateValue":3}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"REFUND_FEE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"Aab2PzEX","rateModel":"FIXED","rateSource":"","rateType":"","startDate":"2022-07-14","rateValue":2.3}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true}]}},"TW":{"basic":{"riskRating":"BLANK","officeAreaCode":"+65","merchantType":"ONLINE","merchantName":"shanlu_online1","companyId":"S22A0005","belongingsTo":"S22A0005","category":"F","subCategory":"F3","institutionPartnerId":null,"online":{"platform":"WooCommerce","shopify":{}},"website":"https://wc-test.apaylater.net/","contactPerson1":"shan lu","phoneNumber":"232332332","phoneAreaCode":"+886","email":"shan.lu@adcance.ai","displayName":"shanlu_onlne1","merchantBrandId":"S22G0015","settlementType":"MERCHANT","taxFlag":"TAX_EXCLUDED","applyPspMdr":false,"mcc":"2222","outletEnglishName":"22222","personInChargeId":"wwwww","registeredCapitalAmount":"22222"},"bank":{"name":"wwwww","accountName":"officia esse consectetur ipsum","accountNumber":"quis","bankBranchCode":"","bankBranchName":"","bankCode":"","swiftCode":""},"account":{"usernameList":["shanlu_online1"]},"merchant":{"monthlyTransactionVolume":"32323"},"commercial":{"capital":{"supportRefund":true,"settlementCycle":"T_1","crossSettlementStatus":false},"chargeRates":[{"chargeType":"MDR","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"7MyJSbMK","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-07-14","rateValue":17}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"REBATE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"Qj8Ktxeb","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-07-14","rateValue":3}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true}]}},"TH":{"basic":{"officeAreaCode":"+66","phoneAreaCode":"+66","riskRating":"BLANK","merchantType":"ONLINE","merchantSubType":"OFFLINE_STATIC_QR","merchantName":"shanlu_online1","companyId":"T22E0007","belongingsTo":"T22E0007","category":"D","subCategory":"D1","institutionPartnerId":null,"online":{"platform":"WooCommerce","shopify":{}},"website":"https://wc-test.apaylater.net/","contactPerson1":"amy lu","phoneNumber":"23432323232","email":"123@qq.com","displayName":"shanlu_online1","merchantBrandId":"T22H0002","settlementType":"MERCHANT","taxFlag":"TAX_EXCLUDED","applyPspMdr":false},"bank":{"name":"jpadyentest-2","accountName":"jpadyentest-2","accountNumber":"121111111","bankCode":"1231312312","swiftCode":"131231231","bankBranchCode":"","bankBranchName":""},"account":{"usernameList":["shanlu_online1"]},"merchant":{"monthlyTransactionVolume":"22323232"},"commercial":{"capital":{"supportRefund":true,"settlementCycle":"T_1","crossSettlementStatus":false},"chargeRates":[{"chargeType":"MDR","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"PAGBczYK","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-08-04","rateValue":15}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"FLAT_FEE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"R8GKeshF","rateModel":"FIXED","rateSource":"","rateType":"","startDate":"2022-08-04","rateValue":18}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"REBATE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"NddBPxfF","rateModel":"PERCENT","rateSource":"GMV","rateType":"","startDate":"2022-08-04","rateValue":5}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true},{"chargeType":"FLAT_REBATE","applyPspMdr":false,"suportRefund":false,"rates":[{"_id":"cFHhKYyD","rateModel":"FIXED","rateSource":"GMV","rateType":"","startDate":"2022-08-04","rateValue":4}],"crossSettlementInfo":{"currency":"","settlePriceType":"FIXED","settleTimeType":"TRANS_TIME","priceValue":""},"settlementType":"MERCHANT","settlementCycle":"T_1","billCycle":null,"cycleDay":"","billDay":"","payoutDay":"","crossSettlementStatus":false,"supportRefund":true}]}}}
+	post 请求开始～～～ 
+	302
+ 	�com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
+ 	9	at com.google.gson.JsonParser.parse(JsonParser.java:65)
+ 	9	at com.google.gson.JsonParser.parse(JsonParser.java:45)
+ 	@	at com.shanlu.util.TestUtil.getResponseBody(TestUtil.java:192)
+ 	L	at com.shanlu.business.MbossLogin.createMerchantBrand(MbossLogin.java:443)
+ 	G	at com.shanlu.business.MbossLogin.setOutletParam(MbossLogin.java:112)
+ 	Q	at com.shanlu.business.MbossLogin.createOnlineEnableOutlet(MbossLogin.java:391)
+ 	9	at TestMboss.testEnableOnlineOutlet(TestMboss.java:109)
+ 	@	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ 	R	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ 	Z	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ 	5	at java.lang.reflect.Method.invoke(Method.java:498)
+ 	[	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:688)
+ 	Z	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+ 	�	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+ 	]	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:149)
+ 	k	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:140)
+ 	f	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:84)
+ 	�	at org.junit.jupiter.engine.execution.ExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(ExecutableInvoker.java:115)
+ 	e	at org.junit.jupiter.engine.execution.ExecutableInvoker.lambda$invoke$0(ExecutableInvoker.java:105)
+ 	�	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+ 	n	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+ 	u	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+ 	m	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+ 	\	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:104)
+ 	[	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:98)
+ 	~	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$6(TestMethodTestDescriptor.java:210)
+ 	j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ 	u	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:206)
+ 	l	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:131)
+ 	k	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:65)
+ 	s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:139)
+ 	j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ 	s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+ 	N	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+ 	s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+ 	j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ 	j	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+ 	^	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+ 	5	at java.util.ArrayList.forEach(ArrayList.java:1259)
+ 	�	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+ 	s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143)
+ 	j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ 	s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+ 	N	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+ 	s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+ 	j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ 	j	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+ 	^	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+ 	5	at java.util.ArrayList.forEach(ArrayList.java:1259)
+ 	�	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+ 	s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143)
+ 	j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ 	s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+ 	N	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+ 	s	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+ 	j	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+ 	j	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+ 	^	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+ 	�	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:32)
+ 	v	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+ 	r	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:51)
+ 	o	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:108)
+ 	n	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:88)
+ 	w	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:54)
+ 	}	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:67)
+ 	n	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:52)
+ 	V	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:96)
+ 	V	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:75)
+ 	�	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.processAllTestClasses(JUnitPlatformTestClassProcessor.java:99)
+ 	�	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.access$000(JUnitPlatformTestClassProcessor.java:79)
+ 	�	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor.stop(JUnitPlatformTestClassProcessor.java:75)
+ 	h	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.stop(SuiteTestClassProcessor.java:61)
+ 	@	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ 	R	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ 	Z	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ 	5	at java.lang.reflect.Method.invoke(Method.java:498)
+ 	Y	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+ 	Y	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+ 	i	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:33)
+ 	x	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:94)
+ 	/	at com.sun.proxy.$Proxy2.stop(Unknown Source)
+ 	V	at org.gradle.api.internal.tasks.testing.worker.TestWorker.stop(TestWorker.java:133)
+ 	@	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ 	R	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ 	Z	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ 	5	at java.lang.reflect.Method.invoke(Method.java:498)
+ 	Y	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+ 	Y	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+ 	�	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:182)
+ 	�	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:164)
+ 	X	at org.gradle.internal.remote.internal.hub.MessageHub$Handler.run(MessageHub.java:414)
+ 	k	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+ 	Z	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:48)
+ 	T	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ 	T	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ 	j	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:56)
+ 	*	at java.lang.Thread.run(Thread.java:748)
+ 	�Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
+ 	H	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1568)
+ 	I	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1409)
+ 	B	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:542)
+ 	@	at com.google.gson.stream.JsonReader.peek(JsonReader.java:425)
+ 	9	at com.google.gson.JsonParser.parse(JsonParser.java:60)
+ 		... 96 more
+	L请确认请求body：「null」，或者请求参数「data」是否正确
+
+L/Users/alvintan/atome/sftpInter/src/main/java/com/shanlu/data/appLogin.json
+
+appLogin.json
+
+�{"SG":{"advertisingId":"27138408-ede7-4361-bf19-12184765079a","appsflyerId":"1628856409884-8378762489447872365","dataConsent":"true","installTime":"null","media":"Android","mediaSource":"null","otp":"4315","mobileNumber":"+6580002023","projectName":"aaclub_flutter_app"},"HK":{"advertisingId":"27138408-ede7-4361-bf19-12184765079a","appsflyerId":"1628856409884-8378762489447872365","dataConsent":"true","installTime":"null","media":"Android","mediaSource":"null","otp":"1111","mobileNumber":"+6581001120","projectName":"aaclub_flutter_app"},"TH":{"advertisingId":"27138408-ede7-4361-bf19-12184765079a","appsflyerId":"1628856409884-8378762489447872365","dataConsent":"true","installTime":"null","media":"Android","mediaSource":"null","otp":"1111","mobileNumber":"+66910001120","projectName":"aaclub_flutter_app"},"TW":{"advertisingId":"79f617c3-a3d4-490e-b980-c98376b46a49","appsflyerCampaign":"null","appsflyerId":"1626948533641-6941927450645287231","dataConsent":"true","installTime":"null","media":"Android","mediaSource":"null","otp":"1111","mobileNumber":"+886910001101","projectName":"aaclub_flutter_app"}}
+
+post 请求开始～～～ 
+
+8login url: https://tw-portal.apaylater.net/api/v2/login
+
+I/Users/alvintan/atome/sftpInter/src/main/java/com/shanlu/data/login.json
+
+login.json
+
+�{"SG":{"username":"shanlu","password":"changeMe123!"},"TH":{"username":"shanlu","password":"changeMe123!"},"ID":{"username":"yangliang","password":"changeMe123!"},"TW":{"username":"shanlu_tw","password":"changeMe123!"}}
+
+3{"username":"shanlu_tw","password":"changeMe123!"}
+
+post 请求开始～～～ 
+
+�返回的response body的json格式：{"code":"SUCCESS","message":"SUCCESS","data":{"token":"eyJhbGciOiJIUzUxMiJ9.eyJ0b2tlbiI6Ik1DX2RkZmY2ZDhjZGViZTQ1MTliNjQxMzEzOWM5MjQ4MjMxIiwiaXNzIjoiQUFDTFVCIiwiaWF0IjoxNjYwOTI3NDExLCJleHAiOjE2NjIxMzcwMTF9.dqUAFxO3LiSj20eYHwWDrK_vDHVtRkzyCOGYanGIqp1om3_P0DB0Xx4gtugDniax1rT7ajQ6xevvrEbtXQwJ9g","userId":"8","isTestAccount":false,"firstStatus":"NONE","isFirstLogin":false},"extra":null}
+
+L/Users/alvintan/atome/sftpInter/src/main/java/com/shanlu/data/payOrder.json
+
+payOrder.json
+
+�返回的response body的json格式：{"code":"SUCCESS","message":"SUCCESS","data":{"isFirstLogin":"False","JWT":"eyJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJBQUNMVUIiLCJzdWIiOiJ7XCJ1c2VySWRcIjpcIlU1MDkyNzEwMjAwXCJ9IiwiYXVkIjoiQVBQIiwiaWF0IjoxNjYwOTI3NDA5LCJleHAiOjE2NjIxMzcwMDl9.59NHEQ4GKvxvZ3gpab4Wtb_AWMXro-0MWoY9RH3nCp3jqlpej90Nig1RyTO_qaYoN2jXGdjNKRWq6fxNbNVrqw"},"extra":null}
+
+�登陆结果返回：{"code":"SUCCESS","message":"SUCCESS","data":{"isFirstLogin":"False","JWT":"eyJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJBQUNMVUIiLCJzdWIiOiJ7XCJ1c2VySWRcIjpcIlU1MDkyNzEwMjAwXCJ9IiwiYXVkIjoiQVBQIiwiaWF0IjoxNjYwOTI3NDA5LCJleHAiOjE2NjIxMzcwMDl9.59NHEQ4GKvxvZ3gpab4Wtb_AWMXro-0MWoY9RH3nCp3jqlpej90Nig1RyTO_qaYoN2jXGdjNKRWq6fxNbNVrqw"},"extra":null}
+
+�appHeader:{cookie=X-ADV-TOKEN=eyJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJBQUNMVUIiLCJzdWIiOiJ7XCJ1c2VySWRcIjpcIlU1MDkyNzEwMjAwXCJ9IiwiYXVkIjoiQVBQIiwiaWF0IjoxNjYwOTI3NDA5LCJleHAiOjE2NjIxMzcwMDl9.59NHEQ4GKvxvZ3gpab4Wtb_AWMXro-0MWoY9RH3nCp3jqlpej90Nig1RyTO_qaYoN2jXGdjNKRWq6fxNbNVrqw, Host=tw-app.apaylater.net, x-user-agent=Apaylater (iOS; iPhone 8; 15.1; zh-Hans-SG) uuid/579d6678-c1ea-4829-8664-b80750322a2d version/3.17.0+450, device-id=579d6678-c1ea-4829-8664-b80750322a2d, Content-Type=application/json}
+
+�获取payment/public接口的地址： https://tw-gateway.apaylater.net/api/payment/public?token=ad62bd44e22641b9810badce458c4037
+
+�返回的response body的json格式：{"code":"PAYMENT_INVALID","message":"Sorry, the QR code is no longer valid.","data":null,"extra":null}
+L/Users/alvintan/atome/sftpInter/src/main/java/com/shanlu/data/appLogin.json
+appLogin.json
+�{"SG":{"advertisingId":"27138408-ede7-4361-bf19-12184765079a","appsflyerId":"1628856409884-8378762489447872365","dataConsent":"true","installTime":"null","media":"Android","mediaSource":"null","otp":"4315","mobileNumber":"+6580002023","projectName":"aaclub_flutter_app"},"HK":{"advertisingId":"27138408-ede7-4361-bf19-12184765079a","appsflyerId":"1628856409884-8378762489447872365","dataConsent":"true","installTime":"null","media":"Android","mediaSource":"null","otp":"1111","mobileNumber":"+6581001120","projectName":"aaclub_flutter_app"},"TH":{"advertisingId":"27138408-ede7-4361-bf19-12184765079a","appsflyerId":"1628856409884-8378762489447872365","dataConsent":"true","installTime":"null","media":"Android","mediaSource":"null","otp":"1111","mobileNumber":"+66910001120","projectName":"aaclub_flutter_app"},"TW":{"advertisingId":"79f617c3-a3d4-490e-b980-c98376b46a49","appsflyerCampaign":"null","appsflyerId":"1626948533641-6941927450645287231","dataConsent":"true","installTime":"null","media":"Android","mediaSource":"null","otp":"1111","mobileNumber":"+886910001101","projectName":"aaclub_flutter_app"}}
+post 请求开始～～～ 
+5login url: https://portal.apaylater.net/api/v2/login
+I/Users/alvintan/atome/sftpInter/src/main/java/com/shanlu/data/login.json
+login.json
+�{"SG":{"username":"shanlu","password":"changeMe123!"},"TH":{"username":"shanlu","password":"changeMe123!"},"ID":{"username":"yangliang","password":"changeMe123!"},"TW":{"username":"shanlu_tw","password":"changeMe123!"}}
+0{"username":"shanlu","password":"changeMe123!"}
+post 请求开始～～～ 
+�返回的response body的json格式：{"code":"SUCCESS","message":"SUCCESS","data":{"token":"eyJhbGciOiJIUzUxMiJ9.eyJ0b2tlbiI6Ik1DXzUyNDRjMWMzYTg0YTRjM2M5MTk2ZTFhZjEwYTBkNzhlIiwiaXNzIjoiQUFDTFVCIiwiaWF0IjoxNjYwOTI3NDEzLCJleHAiOjE2NjIxMzcwMTN9.rkaX5D9wVvba0lT7WFf9ltt8QFmjsioTGvvvRYQVfZWJGoTW_kV_fb40il-FgKmyzRohCfOe5ZCLVjUdfkoOdA","userId":"15859","isTestAccount":false,"firstStatus":"NONE","isFirstLogin":false},"extra":null}
+k创建payment的入参是： {"amount":"114.39","outletId":"S21C00150002","eCommerceOrderId":"OlbzVDCzqX"}
+post 请求开始～～～ 
+�返回的response body的json格式：{"code":"SUCCESS","message":"SUCCESS","data":{"referenceId":"62FFBDB5AF29D2000103040C","currency":"SGD","amount":11439,"redirectUrl":"https://sg-gateway.apaylater.net/en-sg/payment/gateway?token=380d81aa5e9f4453adb4747b866922f4"},"extra":null}
+�！！！！paymentFromMC的response： {"code":"SUCCESS","message":"SUCCESS","data":{"referenceId":"62FFBDB5AF29D2000103040C","currency":"SGD","amount":11439,"redirectUrl":"https://sg-gateway.apaylater.net/en-sg/payment/gateway?token=380d81aa5e9f4453adb4747b866922f4"},"extra":null}
+qredirectUrlFromMC: https://sg-gateway.apaylater.net/en-sg/payment/gateway?token=380d81aa5e9f4453adb4747b866922f4
+L/Users/alvintan/atome/sftpInter/src/main/java/com/shanlu/data/payOrder.json
+payOrder.json
+�返回的response body的json格式：{"code":"SUCCESS","message":"SUCCESS","data":{"isFirstLogin":"False","JWT":"eyJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJBQUNMVUIiLCJzdWIiOiJ7XCJ1c2VySWRcIjpcIlU4MjIyMTMwNTIyXCJ9IiwiYXVkIjoiQVBQIiwiaWF0IjoxNjYwOTI3NDExLCJleHAiOjE2NjIxMzcwMTF9.tWsaadTCHe5oAL9baJIb64XN_6yAVzIZoS0iHAAqWzxz2l1M0Y-cT8w0rVlXLFutxG1QnuC30Va9xgYAL0IfNA"},"extra":null}
+�登陆结果返回：{"code":"SUCCESS","message":"SUCCESS","data":{"isFirstLogin":"False","JWT":"eyJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJBQUNMVUIiLCJzdWIiOiJ7XCJ1c2VySWRcIjpcIlU4MjIyMTMwNTIyXCJ9IiwiYXVkIjoiQVBQIiwiaWF0IjoxNjYwOTI3NDExLCJleHAiOjE2NjIxMzcwMTF9.tWsaadTCHe5oAL9baJIb64XN_6yAVzIZoS0iHAAqWzxz2l1M0Y-cT8w0rVlXLFutxG1QnuC30Va9xgYAL0IfNA"},"extra":null}
+�appHeader:{cookie=X-ADV-TOKEN=eyJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJBQUNMVUIiLCJzdWIiOiJ7XCJ1c2VySWRcIjpcIlU4MjIyMTMwNTIyXCJ9IiwiYXVkIjoiQVBQIiwiaWF0IjoxNjYwOTI3NDExLCJleHAiOjE2NjIxMzcwMTF9.tWsaadTCHe5oAL9baJIb64XN_6yAVzIZoS0iHAAqWzxz2l1M0Y-cT8w0rVlXLFutxG1QnuC30Va9xgYAL0IfNA, Host=sg-app.apaylater.net, x-user-agent=Apaylater (iOS; iPhone 8; 15.1; zh-Hans-SG) uuid/579d6678-c1ea-4829-8664-b80750322a2d version/3.17.0+450, device-id=579d6678-c1ea-4829-8664-b80750322a2d, Content-Type=application/json}
+�获取payment/public接口的地址： https://sg-gateway.apaylater.net/api/payment/public?token=380d81aa5e9f4453adb4747b866922f4
+�返回的response body的json格式：{"code":"SUCCESS","message":"SUCCESS","data":{"paymentId":"PS21C0015000262FFBDB5AF29D2000103040C","token":"380d81aa5e9f4453adb4747b866922f4","merchantId":"S21C00150002","qrCode":"7a376d11d1684851bc4020a16657ee7f","qrCodePath":"https://aaclub-sg-staging.s3.ap-southeast-1.amazonaws.com/qr/7a376d11d1684851bc4020a16657ee7f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220819T164333Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604800&X-Amz-Credential=AKIAWZUSTLHTJ2RLHYJM%2F20220819%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Signature=e74b75e9b435c4e646c8f03ff35ac9be1cfa2ef0be18fd69e6d2116cadf3c512","qrCodeContent":"https://app.apaylater.net/qr/7a376d11d1684851bc4020a16657ee7f","userId":null,"loanId":null,"orderId":null,"amount":114.39,"amountString":"114.39","currency":"SGD","status":"INITIAL","createTime":1660927413533,"merchantInfo":{"id":"S21C00150002","name":"shanlu_2","logoUrl":null,"coverUrl":null,"actionUrl":null,"consents":null,"customizedContractUrl":null,"postCode":"0000000","merchantBrandId":"S21C0265"},"bills":[{"id":"","loanId":"","userId":"","dueDatetime":1660927414047,"dueDatetimeString":"20 Aug 2022","amount":38.13,"amountString":"38.13","processingFee":null,"principal":38.13,"outstandingAmount":38.13,"outstandingAmountString":"38.13","repaidAmount":0,"repaidAmountString":"0.00","currency":"SGD","status":"ONGOING","seq":0,"daysPastDue":0,"type":"INSTALLMENT"},{"id":"","loanId":"","userId":"","dueDatetime":1663603199999,"dueDatetimeString":"19 Sep 2022","amount":38.13,"amountString":"38.13","processingFee":null,"principal":38.13,"outstandingAmount":38.13,"outstandingAmountString":"38.13","repaidAmount":0,"repaidAmountString":"0.00","currency":"SGD","status":"ONGOING","seq":1,"daysPastDue":0,"type":"INSTALLMENT"},{"id":"","loanId":"","userId":"","dueDatetime":1666195199999,"dueDatetimeString":"19 Oct 2022","amount":38.13,"amountString":"38.13","processingFee":null,"principal":38.13,"outstandingAmount":38.13,"outstandingAmountString":"38.13","repaidAmount":0,"repaidAmountString":"0.00","currency":"SGD","status":"ONGOING","seq":2,"daysPastDue":0,"type":"INSTALLMENT"}],"plans":[{"productId":"PISG5E97F1203B7681FACE25003","tenor":3,"bills":[{"id":"","loanId":"","userId":"","dueDatetime":1660927414047,"dueDatetimeString":"20 Aug 2022","amount":38.13,"amountString":"38.13","processingFee":null,"principal":38.13,"outstandingAmount":38.13,"outstandingAmountString":"38.13","repaidAmount":0,"repaidAmountString":"0.00","currency":"SGD","status":"ONGOING","seq":0,"daysPastDue":0,"type":"INSTALLMENT"},{"id":"","loanId":"","userId":"","dueDatetime":1663603199999,"dueDatetimeString":"19 Sep 2022","amount":38.13,"amountString":"38.13","processingFee":null,"principal":38.13,"outstandingAmount":38.13,"outstandingAmountString":"38.13","repaidAmount":0,"repaidAmountString":"0.00","currency":"SGD","status":"ONGOING","seq":1,"daysPastDue":0,"type":"INSTALLMENT"},{"id":"","loanId":"","userId":"","dueDatetime":1666195199999,"dueDatetimeString":"19 Oct 2022","amount":38.13,"amountString":"38.13","processingFee":null,"principal":38.13,"outstandingAmount":38.13,"outstandingAmountString":"38.13","repaidAmount":0,"repaidAmountString":"0.00","currency":"SGD","status":"ONGOING","seq":2,"daysPastDue":0,"type":"INSTALLMENT"}],"totalAmount":null,"payableAmount":null,"payableAmountDecimal":null,"processingFeeMsg":null,"processingFee":null,"processingFeeRate":null}],"redirectUrl":null,"redirectCancelUrl":null,"mobileNumber":null,"email":null,"fullName":null,"promoCode":null,"countdown":null},"extra":null}
+1paymentId: PS21C0015000262FFBDB5AF29D2000103040C
+

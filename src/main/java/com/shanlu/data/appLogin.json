@@ -1,0 +1,52 @@
+{"SG":
+  {
+    "advertisingId": "27138408-ede7-4361-bf19-12184765079a",
+    "appsflyerId": "1628856409884-8378762489447872365",
+    "dataConsent": "true",
+    "installTime": "null",
+    "media": "Android",
+    "mediaSource": "null",
+    "otp": "ccc",
+    "mobileNumber": "ccccc",
+    "projectName": "aaclub_flutter_app"
+  },
+  "HK":
+  {
+    "advertisingId": "27138408-ede7-4361-bf19-12184765079a",
+    "appsflyerId": "1628856409884-8378762489447872365",
+    "dataConsent": "true",
+    "installTime": "null",
+    "media": "Android",
+    "mediaSource": "null",
+    "otp": "ccc",
+    "mobileNumber": "cccc",
+    "projectName": "aaclub_flutter_app"
+  },
+  "TH":
+  {
+    "advertisingId": "27138408-ede7-4361-bf19-12184765079a",
+    "appsflyerId": "1628856409884-8378762489447872365",
+    "dataConsent": "true",
+    "installTime": "null",
+    "media": "Android",
+    "mediaSource": "null",
+    "otp": "ccc",
+    "mobileNumber": "cccc",
+    "projectName": "aaclub_flutter_app"
+  },
+  "TW":
+  {
+    "advertisingId": "79f617c3-a3d4-490e-b980-c98376b46a49",
+    "appsflyerCampaign": "null",
+    "appsflyerId": "1626948533641-6941927450645287231",
+    "dataConsent": "true",
+    "installTime": "null",
+    "media": "Android",
+    "mediaSource": "null",
+    "otp": "ccc",
+    "mobileNumber": "ccccc",
+    "projectName": "aaclub_flutter_app"
+  }
+}
+
+

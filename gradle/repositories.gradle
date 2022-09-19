@@ -1,0 +1,23 @@
+repositories {
+    ext.nexusServerRepositories = { serverHost, repositoriesName ->
+        maven {
+            credentials {
+                //please set them in your ~/.gradle/gradle.properties
+                username project.property('ai.advance.maven.cn.user')
+                password project.property('ai.advance.maven.cn.password')
+            }
+
+            url "${serverHost}/nexus/repository/${repositoriesName}/"
+        }
+    }
+    ext.useNexusServer = { serverHost ->
+        nexusServerRepositories(serverHost, "maven-public")
+//        nexusServerRepositories(serverHost, "maven-releases")
+//        nexusServerRepositories(serverHost, "public")
+    }
+
+    mavenLocal()
+    useNexusServer(singaporeNexusServer)
+    mavenCentral()
+  
+}

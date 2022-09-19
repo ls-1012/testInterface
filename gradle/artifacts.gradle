@@ -1,0 +1,29 @@
+if (project.name.startsWith('application-')) {
+    // when apply spring-boot plugin the build task will  build a executable fatJar
+    apply plugin: 'org.springframework.boot'
+
+    def siblings = configurations.compile.filter { (it.path.contains("$rootDir") && it.path.contains('build')) }
+    def thirdParty = configurations.compile.filter { !it.path.contains("$rootDir") || !it.path.contains('build') }
+
+    // separate sibling and third party dependencies to leverage docker build cache
+    task copySiblingDependencies(type: Copy) {
+        from siblings
+        into 'build/libs/sibling-lib'
+    }
+
+    task copyThirdPartyDependencies(type: Copy) {
+        from thirdParty
+        into 'build/libs/lib'
+    }
+
+    // build a executable `thinJar` compare to `fatJar` of spring-boot plugin
+    task thinJar(type: Jar, dependsOn: [test, copySiblingDependencies, copyThirdPartyDependencies]) {
+        // copy manifest attributes from jar task
+        manifest.attributes jar.manifest.attributes
+        def siblingsPath = siblings.collect { './sibling-lib/' + it.getName() }.join(' ')
+        def thirdPartyPath = thirdParty.collect { './lib/' + it.getName() }.join(' ')
+        manifest.attributes 'Class-Path': ". ${siblingsPath} ${thirdPartyPath}"
+        with jar
+    }
+
+}

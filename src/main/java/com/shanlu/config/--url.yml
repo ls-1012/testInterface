@@ -1,0 +1,22 @@
+mybatis:
+  mapper-locations: classpath*:mybatis/mapper/*.xml
+  configuration:
+    map-underscore-to-camel-case: true
+
+SG:
+    HOST: https://xx.xxx.net
+    APPHOST: https://xx.xxx.net
+    MBOSSHOST: https://xx.xxx.net
+    currency: SGD
+MY:
+  HOST: https://xx.xxx.net
+  APPHOST: https://xx.xxx.net
+  MBOSSHOST: https://xx.xxx.net
+  currency: MYR
+TW:
+  HOST: https://xx.xxx.net
+  APPHOST: https://xx.xxx.net
+  MBOSSHOST: https://xx.xxx.net
+  currency: TWD
+
+
